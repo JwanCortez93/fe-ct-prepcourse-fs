@@ -194,7 +194,7 @@ function tablaDelSeis() {
    }
    return arr
 }
-console.log(tablaDelSeis())
+
 function mayorACien(array) {
    // La función recibe un arreglo con enteros entre 0 y 200.
    // Recorrerlo y retornar un arreglo con todos los valores mayores a 100 (no incluye el 100).
